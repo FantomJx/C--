@@ -18,6 +18,6 @@ int main(){
 
     printf("Name: %s \n", s1.name);
     printf("Number: %d \n", s1.number);
-    printf("Uspeh: %f \n", s1.uspeh);
+    printf("Uspeh: %.2f \n", s1.uspeh);
     return 0;
 }
