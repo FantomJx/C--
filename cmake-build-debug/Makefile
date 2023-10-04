@@ -153,77 +153,53 @@ The_biggest_in_str/wq.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/The_biggest_in_str/wq.c.s
 .PHONY : The_biggest_in_str/wq.c.s
 
-dest_to_dvoichno/46wy_.o: dest_to_dvoichno/46wy_.c.o
-.PHONY : dest_to_dvoichno/46wy_.o
+dest_to_dvoichno/46wy.o: dest_to_dvoichno/46wy.c.o
+.PHONY : dest_to_dvoichno/46wy.o
 
 # target to build an object file
-dest_to_dvoichno/46wy_.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o
-.PHONY : dest_to_dvoichno/46wy_.c.o
+dest_to_dvoichno/46wy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o
+.PHONY : dest_to_dvoichno/46wy.c.o
 
-dest_to_dvoichno/46wy_.i: dest_to_dvoichno/46wy_.c.i
-.PHONY : dest_to_dvoichno/46wy_.i
+dest_to_dvoichno/46wy.i: dest_to_dvoichno/46wy.c.i
+.PHONY : dest_to_dvoichno/46wy.i
 
 # target to preprocess a source file
-dest_to_dvoichno/46wy_.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.i
-.PHONY : dest_to_dvoichno/46wy_.c.i
+dest_to_dvoichno/46wy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.i
+.PHONY : dest_to_dvoichno/46wy.c.i
 
-dest_to_dvoichno/46wy_.s: dest_to_dvoichno/46wy_.c.s
-.PHONY : dest_to_dvoichno/46wy_.s
+dest_to_dvoichno/46wy.s: dest_to_dvoichno/46wy.c.s
+.PHONY : dest_to_dvoichno/46wy.s
 
 # target to generate assembly for a file
-dest_to_dvoichno/46wy_.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.s
-.PHONY : dest_to_dvoichno/46wy_.c.s
+dest_to_dvoichno/46wy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.s
+.PHONY : dest_to_dvoichno/46wy.c.s
 
-dl[]qw/fep.o: dl[]qw/fep.cpp.o
-.PHONY : dl[]qw/fep.o
+eachcharonnewline/eachcharonnewline.o: eachcharonnewline/eachcharonnewline.c.o
+.PHONY : eachcharonnewline/eachcharonnewline.o
 
 # target to build an object file
-dl[]qw/fep.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dl[]qw/fep.cpp.o
-.PHONY : dl[]qw/fep.cpp.o
+eachcharonnewline/eachcharonnewline.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o
+.PHONY : eachcharonnewline/eachcharonnewline.c.o
 
-dl[]qw/fep.i: dl[]qw/fep.cpp.i
-.PHONY : dl[]qw/fep.i
-
-# target to preprocess a source file
-dl[]qw/fep.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dl[]qw/fep.cpp.i
-.PHONY : dl[]qw/fep.cpp.i
-
-dl[]qw/fep.s: dl[]qw/fep.cpp.s
-.PHONY : dl[]qw/fep.s
-
-# target to generate assembly for a file
-dl[]qw/fep.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/dl[]qw/fep.cpp.s
-.PHONY : dl[]qw/fep.cpp.s
-
-ndiw/dwlw.o: ndiw/dwlw.cpp.o
-.PHONY : ndiw/dwlw.o
-
-# target to build an object file
-ndiw/dwlw.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ndiw/dwlw.cpp.o
-.PHONY : ndiw/dwlw.cpp.o
-
-ndiw/dwlw.i: ndiw/dwlw.cpp.i
-.PHONY : ndiw/dwlw.i
+eachcharonnewline/eachcharonnewline.i: eachcharonnewline/eachcharonnewline.c.i
+.PHONY : eachcharonnewline/eachcharonnewline.i
 
 # target to preprocess a source file
-ndiw/dwlw.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ndiw/dwlw.cpp.i
-.PHONY : ndiw/dwlw.cpp.i
+eachcharonnewline/eachcharonnewline.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.i
+.PHONY : eachcharonnewline/eachcharonnewline.c.i
 
-ndiw/dwlw.s: ndiw/dwlw.cpp.s
-.PHONY : ndiw/dwlw.s
+eachcharonnewline/eachcharonnewline.s: eachcharonnewline/eachcharonnewline.c.s
+.PHONY : eachcharonnewline/eachcharonnewline.s
 
 # target to generate assembly for a file
-ndiw/dwlw.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ndiw/dwlw.cpp.s
-.PHONY : ndiw/dwlw.cpp.s
+eachcharonnewline/eachcharonnewline.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s
+.PHONY : eachcharonnewline/eachcharonnewline.c.s
 
 proiz_na_cifri_v_chislo/dsa.o: proiz_na_cifri_v_chislo/dsa.c.o
 .PHONY : proiz_na_cifri_v_chislo/dsa.o
@@ -357,15 +333,12 @@ help:
 	@echo "... The_biggest_in_str/wq.o"
 	@echo "... The_biggest_in_str/wq.i"
 	@echo "... The_biggest_in_str/wq.s"
-	@echo "... dest_to_dvoichno/46wy_.o"
-	@echo "... dest_to_dvoichno/46wy_.i"
-	@echo "... dest_to_dvoichno/46wy_.s"
-	@echo "... dl[]qw/fep.o"
-	@echo "... dl[]qw/fep.i"
-	@echo "... dl[]qw/fep.s"
-	@echo "... ndiw/dwlw.o"
-	@echo "... ndiw/dwlw.i"
-	@echo "... ndiw/dwlw.s"
+	@echo "... dest_to_dvoichno/46wy.o"
+	@echo "... dest_to_dvoichno/46wy.i"
+	@echo "... dest_to_dvoichno/46wy.s"
+	@echo "... eachcharonnewline/eachcharonnewline.o"
+	@echo "... eachcharonnewline/eachcharonnewline.i"
+	@echo "... eachcharonnewline/eachcharonnewline.s"
 	@echo "... proiz_na_cifri_v_chislo/dsa.o"
 	@echo "... proiz_na_cifri_v_chislo/dsa.i"
 	@echo "... proiz_na_cifri_v_chislo/dsa.s"

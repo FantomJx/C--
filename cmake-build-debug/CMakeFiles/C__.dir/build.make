@@ -69,38 +69,10 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/dl[]qw/fep.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/dl[]qw/fep.cpp.o: /Users/mark/Documents/GitHub/C--/dl[]qw/fep.cpp
-CMakeFiles/C__.dir/dl[]qw/fep.cpp.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/dl[]qw/fep.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/C__.dir/dl[]qw/fep.cpp.o -MF CMakeFiles/C__.dir/dl[]qw/fep.cpp.o.d -o CMakeFiles/C__.dir/dl[]qw/fep.cpp.o -c /Users/mark/Documents/GitHub/C--/dl[]qw/fep.cpp
-
-CMakeFiles/C__.dir/dl[]qw/fep.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/dl[]qw/fep.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mark/Documents/GitHub/C--/dl[]qw/fep.cpp > CMakeFiles/C__.dir/dl[]qw/fep.cpp.i
-
-CMakeFiles/C__.dir/dl[]qw/fep.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/dl[]qw/fep.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mark/Documents/GitHub/C--/dl[]qw/fep.cpp -o CMakeFiles/C__.dir/dl[]qw/fep.cpp.s
-
-CMakeFiles/C__.dir/ndiw/dwlw.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/ndiw/dwlw.cpp.o: /Users/mark/Documents/GitHub/C--/ndiw/dwlw.cpp
-CMakeFiles/C__.dir/ndiw/dwlw.cpp.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/ndiw/dwlw.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/C__.dir/ndiw/dwlw.cpp.o -MF CMakeFiles/C__.dir/ndiw/dwlw.cpp.o.d -o CMakeFiles/C__.dir/ndiw/dwlw.cpp.o -c /Users/mark/Documents/GitHub/C--/ndiw/dwlw.cpp
-
-CMakeFiles/C__.dir/ndiw/dwlw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/ndiw/dwlw.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mark/Documents/GitHub/C--/ndiw/dwlw.cpp > CMakeFiles/C__.dir/ndiw/dwlw.cpp.i
-
-CMakeFiles/C__.dir/ndiw/dwlw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/ndiw/dwlw.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mark/Documents/GitHub/C--/ndiw/dwlw.cpp -o CMakeFiles/C__.dir/ndiw/dwlw.cpp.s
-
 CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o: /Users/mark/Documents/GitHub/C--/prostichislavmas/dfswo.c
 CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o -MF CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o.d -o CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o -c /Users/mark/Documents/GitHub/C--/prostichislavmas/dfswo.c
 
 CMakeFiles/C__.dir/prostichislavmas/dfswo.c.i: cmake_force
@@ -114,7 +86,7 @@ CMakeFiles/C__.dir/prostichislavmas/dfswo.c.s: cmake_force
 CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o: /Users/mark/Documents/GitHub/C--/proiz\ na\ cifri\ v\ chislo/dsa.c
 CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o -MF CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o.d -o CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o -c "/Users/mark/Documents/GitHub/C--/proiz na cifri v chislo/dsa.c"
 
 CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.i: cmake_force
@@ -128,7 +100,7 @@ CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.s: cmake_force
 CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o: /Users/mark/Documents/GitHub/C--/sum\ na\ indeks\ po\ chislo\ v\ mas/wef.c
 CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o -MF CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o.d -o CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o -c "/Users/mark/Documents/GitHub/C--/sum na indeks po chislo v mas/wef.c"
 
 CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.i: cmake_force
@@ -142,7 +114,7 @@ CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.s: cmake_force
 CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o: /Users/mark/Documents/GitHub/C--/tursene\ s\ vrusht\ na\ \ indeks/89y.c
 CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o -MF CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o.d -o CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o -c "/Users/mark/Documents/GitHub/C--/tursene s vrusht na  indeks/89y.c"
 
 CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.i: cmake_force
@@ -156,7 +128,7 @@ CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.s: cmake_force
 CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o: /Users/mark/Documents/GitHub/C--/The\ biggest\ in\ str/wq.c
 CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o -MF CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o.d -o CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o -c "/Users/mark/Documents/GitHub/C--/The biggest in str/wq.c"
 
 CMakeFiles/C__.dir/The_biggest_in_str/wq.c.i: cmake_force
@@ -167,24 +139,24 @@ CMakeFiles/C__.dir/The_biggest_in_str/wq.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/The_biggest_in_str/wq.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/mark/Documents/GitHub/C--/The biggest in str/wq.c" -o CMakeFiles/C__.dir/The_biggest_in_str/wq.c.s
 
-CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o: /Users/mark/Documents/GitHub/C--/dest\ to\ dvoichno/46wy\ .c
-CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o -MF CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o.d -o CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o -c "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy .c"
+CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o: /Users/mark/Documents/GitHub/C--/dest\ to\ dvoichno/46wy.c
+CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o -MF CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o.d -o CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o -c "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy.c"
 
-CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy .c" > CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.i
+CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy.c" > CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.i
 
-CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy .c" -o CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.s
+CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy.c" -o CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.s
 
 CMakeFiles/C__.dir/struct/dwsf.c.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/struct/dwsf.c.o: /Users/mark/Documents/GitHub/C--/struct/dwsf.c
 CMakeFiles/C__.dir/struct/dwsf.c.o: CMakeFiles/C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/C__.dir/struct/dwsf.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/C__.dir/struct/dwsf.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/struct/dwsf.c.o -MF CMakeFiles/C__.dir/struct/dwsf.c.o.d -o CMakeFiles/C__.dir/struct/dwsf.c.o -c /Users/mark/Documents/GitHub/C--/struct/dwsf.c
 
 CMakeFiles/C__.dir/struct/dwsf.c.i: cmake_force
@@ -195,33 +167,45 @@ CMakeFiles/C__.dir/struct/dwsf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/struct/dwsf.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/struct/dwsf.c -o CMakeFiles/C__.dir/struct/dwsf.c.s
 
+CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o: /Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c
+CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o -MF CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o.d -o CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o -c /Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c
+
+CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c > CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.i
+
+CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c -o CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s
+
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/dl[]qw/fep.cpp.o" \
-"CMakeFiles/C__.dir/ndiw/dwlw.cpp.o" \
 "CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o" \
 "CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o" \
 "CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o" \
 "CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o" \
 "CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o" \
-"CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o" \
-"CMakeFiles/C__.dir/struct/dwsf.c.o"
+"CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o" \
+"CMakeFiles/C__.dir/struct/dwsf.c.o" \
+"CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__: CMakeFiles/C__.dir/dl[]qw/fep.cpp.o
-C__: CMakeFiles/C__.dir/ndiw/dwlw.cpp.o
 C__: CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o
 C__: CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o
 C__: CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.o
 C__: CMakeFiles/C__.dir/tursene_s_vrusht_na__indeks/89y.c.o
 C__: CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o
-C__: CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o
+C__: CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o
 C__: CMakeFiles/C__.dir/struct/dwsf.c.o
+C__: CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

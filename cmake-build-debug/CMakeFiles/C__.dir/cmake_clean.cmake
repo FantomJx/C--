@@ -1,12 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o"
   "CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o.d"
-  "CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o"
-  "CMakeFiles/C__.dir/dest_to_dvoichno/46wy_.c.o.d"
-  "CMakeFiles/C__.dir/dl[]qw/fep.cpp.o"
-  "CMakeFiles/C__.dir/dl[]qw/fep.cpp.o.d"
-  "CMakeFiles/C__.dir/ndiw/dwlw.cpp.o"
-  "CMakeFiles/C__.dir/ndiw/dwlw.cpp.o.d"
+  "CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o"
+  "CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o.d"
+  "CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o"
+  "CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o.d"
   "CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o"
   "CMakeFiles/C__.dir/proiz_na_cifri_v_chislo/dsa.c.o.d"
   "CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o"
@@ -22,6 +20,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
+foreach(lang C)
   include(CMakeFiles/C__.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
