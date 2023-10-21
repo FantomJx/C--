@@ -129,6 +129,30 @@ C__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
+COMMAND/COMMAND.o: COMMAND/COMMAND.c.o
+.PHONY : COMMAND/COMMAND.o
+
+# target to build an object file
+COMMAND/COMMAND.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/COMMAND/COMMAND.c.o
+.PHONY : COMMAND/COMMAND.c.o
+
+COMMAND/COMMAND.i: COMMAND/COMMAND.c.i
+.PHONY : COMMAND/COMMAND.i
+
+# target to preprocess a source file
+COMMAND/COMMAND.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/COMMAND/COMMAND.c.i
+.PHONY : COMMAND/COMMAND.c.i
+
+COMMAND/COMMAND.s: COMMAND/COMMAND.c.s
+.PHONY : COMMAND/COMMAND.s
+
+# target to generate assembly for a file
+COMMAND/COMMAND.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/COMMAND/COMMAND.c.s
+.PHONY : COMMAND/COMMAND.c.s
+
 The_biggest_in_str/wq.o: The_biggest_in_str/wq.c.o
 .PHONY : The_biggest_in_str/wq.o
 
@@ -152,6 +176,30 @@ The_biggest_in_str/wq.s: The_biggest_in_str/wq.c.s
 The_biggest_in_str/wq.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/The_biggest_in_str/wq.c.s
 .PHONY : The_biggest_in_str/wq.c.s
+
+debugg/debug.o: debugg/debug.c.o
+.PHONY : debugg/debug.o
+
+# target to build an object file
+debugg/debug.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/debugg/debug.c.o
+.PHONY : debugg/debug.c.o
+
+debugg/debug.i: debugg/debug.c.i
+.PHONY : debugg/debug.i
+
+# target to preprocess a source file
+debugg/debug.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/debugg/debug.c.i
+.PHONY : debugg/debug.c.i
+
+debugg/debug.s: debugg/debug.c.s
+.PHONY : debugg/debug.s
+
+# target to generate assembly for a file
+debugg/debug.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/debugg/debug.c.s
+.PHONY : debugg/debug.c.s
 
 dest_to_dvoichno/46wy.o: dest_to_dvoichno/46wy.c.o
 .PHONY : dest_to_dvoichno/46wy.o
@@ -201,6 +249,30 @@ eachcharonnewline/eachcharonnewline.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s
 .PHONY : eachcharonnewline/eachcharonnewline.c.s
 
+macro_for_arr/macro_for_arr.o: macro_for_arr/macro_for_arr.c.o
+.PHONY : macro_for_arr/macro_for_arr.o
+
+# target to build an object file
+macro_for_arr/macro_for_arr.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o
+.PHONY : macro_for_arr/macro_for_arr.c.o
+
+macro_for_arr/macro_for_arr.i: macro_for_arr/macro_for_arr.c.i
+.PHONY : macro_for_arr/macro_for_arr.i
+
+# target to preprocess a source file
+macro_for_arr/macro_for_arr.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.i
+.PHONY : macro_for_arr/macro_for_arr.c.i
+
+macro_for_arr/macro_for_arr.s: macro_for_arr/macro_for_arr.c.s
+.PHONY : macro_for_arr/macro_for_arr.s
+
+# target to generate assembly for a file
+macro_for_arr/macro_for_arr.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.s
+.PHONY : macro_for_arr/macro_for_arr.c.s
+
 proiz_na_cifri_v_chislo/dsa.o: proiz_na_cifri_v_chislo/dsa.c.o
 .PHONY : proiz_na_cifri_v_chislo/dsa.o
 
@@ -248,6 +320,54 @@ prostichislavmas/dfswo.s: prostichislavmas/dfswo.c.s
 prostichislavmas/dfswo.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/prostichislavmas/dfswo.c.s
 .PHONY : prostichislavmas/dfswo.c.s
+
+sort/sort.o: sort/sort.c.o
+.PHONY : sort/sort.o
+
+# target to build an object file
+sort/sort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sort/sort.c.o
+.PHONY : sort/sort.c.o
+
+sort/sort.i: sort/sort.c.i
+.PHONY : sort/sort.i
+
+# target to preprocess a source file
+sort/sort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sort/sort.c.i
+.PHONY : sort/sort.c.i
+
+sort/sort.s: sort/sort.c.s
+.PHONY : sort/sort.s
+
+# target to generate assembly for a file
+sort/sort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sort/sort.c.s
+.PHONY : sort/sort.c.s
+
+sravn/sravn.o: sravn/sravn.c.o
+.PHONY : sravn/sravn.o
+
+# target to build an object file
+sravn/sravn.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sravn/sravn.c.o
+.PHONY : sravn/sravn.c.o
+
+sravn/sravn.i: sravn/sravn.c.i
+.PHONY : sravn/sravn.i
+
+# target to preprocess a source file
+sravn/sravn.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sravn/sravn.c.i
+.PHONY : sravn/sravn.c.i
+
+sravn/sravn.s: sravn/sravn.c.s
+.PHONY : sravn/sravn.s
+
+# target to generate assembly for a file
+sravn/sravn.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sravn/sravn.c.s
+.PHONY : sravn/sravn.c.s
 
 struct/dwsf.o: struct/dwsf.c.o
 .PHONY : struct/dwsf.o
@@ -297,6 +417,30 @@ sum_na_indeks_po_chislo_v_mas/wef.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/sum_na_indeks_po_chislo_v_mas/wef.c.s
 .PHONY : sum_na_indeks_po_chislo_v_mas/wef.c.s
 
+swap/swap.o: swap/swap.c.o
+.PHONY : swap/swap.o
+
+# target to build an object file
+swap/swap.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/swap/swap.c.o
+.PHONY : swap/swap.c.o
+
+swap/swap.i: swap/swap.c.i
+.PHONY : swap/swap.i
+
+# target to preprocess a source file
+swap/swap.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/swap/swap.c.i
+.PHONY : swap/swap.c.i
+
+swap/swap.s: swap/swap.c.s
+.PHONY : swap/swap.s
+
+# target to generate assembly for a file
+swap/swap.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/swap/swap.c.s
+.PHONY : swap/swap.c.s
+
 tursene_s_vrusht_na__indeks/89y.o: tursene_s_vrusht_na__indeks/89y.c.o
 .PHONY : tursene_s_vrusht_na__indeks/89y.o
 
@@ -330,27 +474,45 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C__"
+	@echo "... COMMAND/COMMAND.o"
+	@echo "... COMMAND/COMMAND.i"
+	@echo "... COMMAND/COMMAND.s"
 	@echo "... The_biggest_in_str/wq.o"
 	@echo "... The_biggest_in_str/wq.i"
 	@echo "... The_biggest_in_str/wq.s"
+	@echo "... debugg/debug.o"
+	@echo "... debugg/debug.i"
+	@echo "... debugg/debug.s"
 	@echo "... dest_to_dvoichno/46wy.o"
 	@echo "... dest_to_dvoichno/46wy.i"
 	@echo "... dest_to_dvoichno/46wy.s"
 	@echo "... eachcharonnewline/eachcharonnewline.o"
 	@echo "... eachcharonnewline/eachcharonnewline.i"
 	@echo "... eachcharonnewline/eachcharonnewline.s"
+	@echo "... macro_for_arr/macro_for_arr.o"
+	@echo "... macro_for_arr/macro_for_arr.i"
+	@echo "... macro_for_arr/macro_for_arr.s"
 	@echo "... proiz_na_cifri_v_chislo/dsa.o"
 	@echo "... proiz_na_cifri_v_chislo/dsa.i"
 	@echo "... proiz_na_cifri_v_chislo/dsa.s"
 	@echo "... prostichislavmas/dfswo.o"
 	@echo "... prostichislavmas/dfswo.i"
 	@echo "... prostichislavmas/dfswo.s"
+	@echo "... sort/sort.o"
+	@echo "... sort/sort.i"
+	@echo "... sort/sort.s"
+	@echo "... sravn/sravn.o"
+	@echo "... sravn/sravn.i"
+	@echo "... sravn/sravn.s"
 	@echo "... struct/dwsf.o"
 	@echo "... struct/dwsf.i"
 	@echo "... struct/dwsf.s"
 	@echo "... sum_na_indeks_po_chislo_v_mas/wef.o"
 	@echo "... sum_na_indeks_po_chislo_v_mas/wef.i"
 	@echo "... sum_na_indeks_po_chislo_v_mas/wef.s"
+	@echo "... swap/swap.o"
+	@echo "... swap/swap.i"
+	@echo "... swap/swap.s"
 	@echo "... tursene_s_vrusht_na__indeks/89y.o"
 	@echo "... tursene_s_vrusht_na__indeks/89y.i"
 	@echo "... tursene_s_vrusht_na__indeks/89y.s"

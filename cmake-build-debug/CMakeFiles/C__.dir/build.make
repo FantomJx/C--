@@ -181,6 +181,90 @@ CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c -o CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.s
 
+CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o: /Users/mark/Documents/GitHub/C--/macro_for_arr/macro_for_arr.c
+CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o -MF CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o.d -o CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o -c /Users/mark/Documents/GitHub/C--/macro_for_arr/macro_for_arr.c
+
+CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/macro_for_arr/macro_for_arr.c > CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.i
+
+CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/macro_for_arr/macro_for_arr.c -o CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.s
+
+CMakeFiles/C__.dir/sravn/sravn.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/sravn/sravn.c.o: /Users/mark/Documents/GitHub/C--/sravn/sravn.c
+CMakeFiles/C__.dir/sravn/sravn.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/C__.dir/sravn/sravn.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/sravn/sravn.c.o -MF CMakeFiles/C__.dir/sravn/sravn.c.o.d -o CMakeFiles/C__.dir/sravn/sravn.c.o -c /Users/mark/Documents/GitHub/C--/sravn/sravn.c
+
+CMakeFiles/C__.dir/sravn/sravn.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/sravn/sravn.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/sravn/sravn.c > CMakeFiles/C__.dir/sravn/sravn.c.i
+
+CMakeFiles/C__.dir/sravn/sravn.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/sravn/sravn.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/sravn/sravn.c -o CMakeFiles/C__.dir/sravn/sravn.c.s
+
+CMakeFiles/C__.dir/debugg/debug.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/debugg/debug.c.o: /Users/mark/Documents/GitHub/C--/debugg/debug.c
+CMakeFiles/C__.dir/debugg/debug.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/C__.dir/debugg/debug.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/debugg/debug.c.o -MF CMakeFiles/C__.dir/debugg/debug.c.o.d -o CMakeFiles/C__.dir/debugg/debug.c.o -c /Users/mark/Documents/GitHub/C--/debugg/debug.c
+
+CMakeFiles/C__.dir/debugg/debug.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/debugg/debug.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/debugg/debug.c > CMakeFiles/C__.dir/debugg/debug.c.i
+
+CMakeFiles/C__.dir/debugg/debug.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/debugg/debug.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/debugg/debug.c -o CMakeFiles/C__.dir/debugg/debug.c.s
+
+CMakeFiles/C__.dir/COMMAND/COMMAND.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/COMMAND/COMMAND.c.o: /Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c
+CMakeFiles/C__.dir/COMMAND/COMMAND.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/C__.dir/COMMAND/COMMAND.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/COMMAND/COMMAND.c.o -MF CMakeFiles/C__.dir/COMMAND/COMMAND.c.o.d -o CMakeFiles/C__.dir/COMMAND/COMMAND.c.o -c /Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c
+
+CMakeFiles/C__.dir/COMMAND/COMMAND.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/COMMAND/COMMAND.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c > CMakeFiles/C__.dir/COMMAND/COMMAND.c.i
+
+CMakeFiles/C__.dir/COMMAND/COMMAND.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/COMMAND/COMMAND.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c -o CMakeFiles/C__.dir/COMMAND/COMMAND.c.s
+
+CMakeFiles/C__.dir/swap/swap.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/swap/swap.c.o: /Users/mark/Documents/GitHub/C--/swap/swap.c
+CMakeFiles/C__.dir/swap/swap.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/C__.dir/swap/swap.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/swap/swap.c.o -MF CMakeFiles/C__.dir/swap/swap.c.o.d -o CMakeFiles/C__.dir/swap/swap.c.o -c /Users/mark/Documents/GitHub/C--/swap/swap.c
+
+CMakeFiles/C__.dir/swap/swap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/swap/swap.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/swap/swap.c > CMakeFiles/C__.dir/swap/swap.c.i
+
+CMakeFiles/C__.dir/swap/swap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/swap/swap.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/swap/swap.c -o CMakeFiles/C__.dir/swap/swap.c.s
+
+CMakeFiles/C__.dir/sort/sort.c.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/sort/sort.c.o: /Users/mark/Documents/GitHub/C--/sort/sort.c
+CMakeFiles/C__.dir/sort/sort.c.o: CMakeFiles/C__.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/C__.dir/sort/sort.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/C__.dir/sort/sort.c.o -MF CMakeFiles/C__.dir/sort/sort.c.o.d -o CMakeFiles/C__.dir/sort/sort.c.o -c /Users/mark/Documents/GitHub/C--/sort/sort.c
+
+CMakeFiles/C__.dir/sort/sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C__.dir/sort/sort.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mark/Documents/GitHub/C--/sort/sort.c > CMakeFiles/C__.dir/sort/sort.c.i
+
+CMakeFiles/C__.dir/sort/sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C__.dir/sort/sort.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mark/Documents/GitHub/C--/sort/sort.c -o CMakeFiles/C__.dir/sort/sort.c.s
+
 # Object files for target C__
 C___OBJECTS = \
 "CMakeFiles/C__.dir/prostichislavmas/dfswo.c.o" \
@@ -190,7 +274,13 @@ C___OBJECTS = \
 "CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o" \
 "CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o" \
 "CMakeFiles/C__.dir/struct/dwsf.c.o" \
-"CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o"
+"CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o" \
+"CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o" \
+"CMakeFiles/C__.dir/sravn/sravn.c.o" \
+"CMakeFiles/C__.dir/debugg/debug.c.o" \
+"CMakeFiles/C__.dir/COMMAND/COMMAND.c.o" \
+"CMakeFiles/C__.dir/swap/swap.c.o" \
+"CMakeFiles/C__.dir/sort/sort.c.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
@@ -203,9 +293,15 @@ C__: CMakeFiles/C__.dir/The_biggest_in_str/wq.c.o
 C__: CMakeFiles/C__.dir/dest_to_dvoichno/46wy.c.o
 C__: CMakeFiles/C__.dir/struct/dwsf.c.o
 C__: CMakeFiles/C__.dir/eachcharonnewline/eachcharonnewline.c.o
+C__: CMakeFiles/C__.dir/macro_for_arr/macro_for_arr.c.o
+C__: CMakeFiles/C__.dir/sravn/sravn.c.o
+C__: CMakeFiles/C__.dir/debugg/debug.c.o
+C__: CMakeFiles/C__.dir/COMMAND/COMMAND.c.o
+C__: CMakeFiles/C__.dir/swap/swap.c.o
+C__: CMakeFiles/C__.dir/sort/sort.c.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mark/Documents/GitHub/C--/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking C executable C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -17,4 +17,10 @@ add_executable(C__
         eachcharonnewline/eachcharonnewline.c
         eachcharonnewline/eachcharonnewline.c
         eachcharonnewline/eachcharonnewline.c
+        macro_for_arr/macro_for_arr.c
+        sravn/sravn.c
+        debugg/debug.c
+        COMMAND/COMMAND.c
+        swap/swap.c
+        sort/sort.c
 )

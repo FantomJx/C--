@@ -80,7 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c">
+			<Option target="C__"/>
+		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/The biggest in str/wq.c">
+			<Option target="C__"/>
+		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/debugg/debug.c">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/dest to dvoichno/46wy.c">
@@ -89,16 +95,28 @@
 		<Unit filename="/Users/mark/Documents/GitHub/C--/eachcharonnewline/eachcharonnewline.c">
 			<Option target="C__"/>
 		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/macro_for_arr/macro_for_arr.c">
+			<Option target="C__"/>
+		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/proiz na cifri v chislo/dsa.c">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/prostichislavmas/dfswo.c">
 			<Option target="C__"/>
 		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/sort/sort.c">
+			<Option target="C__"/>
+		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/sravn/sravn.c">
+			<Option target="C__"/>
+		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/struct/dwsf.c">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/sum na indeks po chislo v mas/wef.c">
+			<Option target="C__"/>
+		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/swap/swap.c">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/tursene s vrusht na  indeks/89y.c">
