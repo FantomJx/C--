@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.26"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "C__::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C__-Debug-75ab9914c0156d189210.json",
+					"jsonFile" : "target-C__-Debug-28efc1d7e04e09de3253.json",
 					"name" : "C__",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/mark/Documents/GitHub/C--/cmake-build-debug",
-		"source" : "/Users/mark/Documents/GitHub/C--"
+		"build" : "D:/GitHub/C--/cmake-build-debug",
+		"source" : "D:/GitHub/C--"
 	},
 	"version" : 
 	{
