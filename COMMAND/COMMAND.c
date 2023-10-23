@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 #define COMMAND(NAME, TYPE) TYPE ## _ ## NAME ## _command
-
 #define DEFINE_COMMAND(NAME, TYPE) \
     void TYPE ## _ ## NAME ## _command(void)
 
