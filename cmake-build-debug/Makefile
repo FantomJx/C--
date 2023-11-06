@@ -129,6 +129,30 @@ C__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
+ARR_SIZE/ARR_SIZE.o: ARR_SIZE/ARR_SIZE.c.o
+.PHONY : ARR_SIZE/ARR_SIZE.o
+
+# target to build an object file
+ARR_SIZE/ARR_SIZE.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ARR_SIZE/ARR_SIZE.c.o
+.PHONY : ARR_SIZE/ARR_SIZE.c.o
+
+ARR_SIZE/ARR_SIZE.i: ARR_SIZE/ARR_SIZE.c.i
+.PHONY : ARR_SIZE/ARR_SIZE.i
+
+# target to preprocess a source file
+ARR_SIZE/ARR_SIZE.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ARR_SIZE/ARR_SIZE.c.i
+.PHONY : ARR_SIZE/ARR_SIZE.c.i
+
+ARR_SIZE/ARR_SIZE.s: ARR_SIZE/ARR_SIZE.c.s
+.PHONY : ARR_SIZE/ARR_SIZE.s
+
+# target to generate assembly for a file
+ARR_SIZE/ARR_SIZE.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/ARR_SIZE/ARR_SIZE.c.s
+.PHONY : ARR_SIZE/ARR_SIZE.c.s
+
 COMMAND/COMMAND.o: COMMAND/COMMAND.c.o
 .PHONY : COMMAND/COMMAND.o
 
@@ -152,6 +176,30 @@ COMMAND/COMMAND.s: COMMAND/COMMAND.c.s
 COMMAND/COMMAND.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/COMMAND/COMMAND.c.s
 .PHONY : COMMAND/COMMAND.c.s
+
+DEBYG2/debug2.o: DEBYG2/debug2.c.o
+.PHONY : DEBYG2/debug2.o
+
+# target to build an object file
+DEBYG2/debug2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/DEBYG2/debug2.c.o
+.PHONY : DEBYG2/debug2.c.o
+
+DEBYG2/debug2.i: DEBYG2/debug2.c.i
+.PHONY : DEBYG2/debug2.i
+
+# target to preprocess a source file
+DEBYG2/debug2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/DEBYG2/debug2.c.i
+.PHONY : DEBYG2/debug2.c.i
+
+DEBYG2/debug2.s: DEBYG2/debug2.c.s
+.PHONY : DEBYG2/debug2.s
+
+# target to generate assembly for a file
+DEBYG2/debug2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/DEBYG2/debug2.c.s
+.PHONY : DEBYG2/debug2.c.s
 
 The_biggest_in_str/wq.o: The_biggest_in_str/wq.c.o
 .PHONY : The_biggest_in_str/wq.o
@@ -474,9 +522,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C__"
+	@echo "... ARR_SIZE/ARR_SIZE.o"
+	@echo "... ARR_SIZE/ARR_SIZE.i"
+	@echo "... ARR_SIZE/ARR_SIZE.s"
 	@echo "... COMMAND/COMMAND.o"
 	@echo "... COMMAND/COMMAND.i"
 	@echo "... COMMAND/COMMAND.s"
+	@echo "... DEBYG2/debug2.o"
+	@echo "... DEBYG2/debug2.i"
+	@echo "... DEBYG2/debug2.s"
 	@echo "... The_biggest_in_str/wq.o"
 	@echo "... The_biggest_in_str/wq.i"
 	@echo "... The_biggest_in_str/wq.s"

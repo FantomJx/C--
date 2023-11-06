@@ -80,7 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/ARR_SIZE/ARR_SIZE.c">
+			<Option target="C__"/>
+		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/COMMAND/COMMAND.c">
+			<Option target="C__"/>
+		</Unit>
+		<Unit filename="/Users/mark/Documents/GitHub/C--/DEBYG2/debug2.c">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/Users/mark/Documents/GitHub/C--/The biggest in str/wq.c">

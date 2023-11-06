@@ -23,4 +23,12 @@ add_executable(C__
         COMMAND/COMMAND.c
         swap/swap.c
         sort/sort.c
+        DEBYG2/debug2.c
+        ARR_SIZE/ARR_SIZE.c
+        ARR_syzq/arr_syze.c
+        ARR_syzq/arr_syze.c
+        school/person.h
+        school/schoolclass.h
+        school/schoolclass.h
+        school/school.c
 )
