@@ -31,4 +31,5 @@ add_executable(C__
         school/schoolclass.h
         school/schoolclass.h
         school/school.c
+        "(A + B) ^ 2/hfei.c"
 )

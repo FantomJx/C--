@@ -1,0 +1,3 @@
+/Users/mark/Documents/GitHub/C--/obsht_krt/cmake-build-debug/CMakeFiles/obsht_krt.dir
+/Users/mark/Documents/GitHub/C--/obsht_krt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mark/Documents/GitHub/C--/obsht_krt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
