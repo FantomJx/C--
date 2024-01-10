@@ -1,0 +1,4 @@
+# ninja log v5
+1	107	1704539232575620809	CMakeFiles/dani_v_pameta.dir/main.c.o	ad41c05e4cf7c92d
+1	323	1704539174664581458	CMakeFiles/dani_v_pameta.dir/safeint.c.o	bfa40b30d4d578f7
+324	725	1704539175073203971	dani_v_pameta	2aea0b46f79f460a

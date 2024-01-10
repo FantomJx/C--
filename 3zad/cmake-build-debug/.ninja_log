@@ -1,0 +1,7 @@
+# ninja log v5
+2	103	1702291111300690189	CMakeFiles/3zad.dir/strconcat.c.o	90a68e1c115d89fc
+2	100	1702291111297071356	CMakeFiles/3zad.dir/strcompare.c.o	e5062f15c7ddc0e0
+1	70	1702290486946055793	CMakeFiles/3zad.dir/help.c.o	d03b11628c2dff6
+0	123	1704538020025976801	build.ninja	f261a6f4b6791eeb
+0	71	1702290486946051804	CMakeFiles/3zad.dir/srtlength.c.o	f0b4f7b37e761c57
+1	100	1702291111297071276	CMakeFiles/3zad.dir/strlength.c.o	5bdf5ec465f3ff0e

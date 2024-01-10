@@ -3,4 +3,6 @@ project(trsnsformation C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(trsnsformation main.c)
+add_executable(trsnsformation transformation.c
+        transformation.h
+        main.c)
