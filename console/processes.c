@@ -38,7 +38,6 @@ void stopprocess(int processid) {
     if (isvalidid(processid)) {
         for (int i = 0; i < processescount; i++) {
             if (processes[i].id == processid) {
-                // Move the last process to the empty slot
                 processes[i] = processes[processescount - 1];
                 processes[processescount - 1].id = 0;
                 processescount--;
@@ -47,6 +46,6 @@ void stopprocess(int processid) {
             }
         }
     } else {
-        printf("Error: Invalid process ID.\n");
+        printf("Error in ID.\n");
     }
 }
