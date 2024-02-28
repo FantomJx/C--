@@ -10,7 +10,7 @@ void bubbleSort(int arr[], int n, int (*compare)(const void*, const void*), void
     for (i = 0; i < n - 1; i++) {
         swapped = 0;
         for (j = 0; j < n - i - 1; j++) {
-            if(compare(arr + j, arr + j + 1) > 0) {
+            if(compare(&arr[j], &arr[j + 1]) > 0) {
                 swapelements(arr + j, arr + j + 1);
                 swapped = 1;
             }
@@ -19,20 +19,6 @@ void bubbleSort(int arr[], int n, int (*compare)(const void*, const void*), void
         if (swapped == 0)
             break;
     }
-}
-
-int descending_compare(void *a, void *b) {
-    int *int_a = (int *)a;
-    int *int_b = (int *)b;
-
-    return *int_b - *int_a;
-}
-
-int ascending_compare(void *a, void *b) {
-    int *int_a = (int *)a;
-    int *int_b = (int *)b;
-
-    return *int_a - *int_b;
 }
 
 void int_swap(void *a, void *b) {

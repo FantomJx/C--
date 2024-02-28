@@ -10,11 +10,9 @@ void bubbleSort(int arr[], int n, int (*compare)(void*, void*), void (*swapeleme
     for (i = 0; i < n - 1; i++) {
         swapped = 0;
         for (j = 0; j < n - i - 1; j++) {
-            if(compare(arr + j, arr + j + 1) > 0) {
-
+            if(compare(&arr[j], &arr[j + 1]) > 0) {
                 swapelements(arr + j, arr + j + 1);
                 swapped = 1;
-
             }
 
         }
@@ -48,34 +46,13 @@ void int_swap(void *a, void *b) {
     *int_b = temp;
 }
 
-int compareasc(const void *a, const void *b)
-{
-    int *pointer_a = (int *)a;
-    int *pointer_b = (int *)b;
-
-    if(*pointer_a > *pointer_b) return 1;
-    if(*pointer_a < *pointer_b) return -1;
-    return 0;
-}
-
-int comparedesk(const void *a, const void *b)
-{
-    const int *pointer_a = (int *)a;
-    const int *pointer_b = (int *)b;
-
-    if(*pointer_a < *pointer_b) return 1;
-    if(*pointer_a > *pointer_b) return -1;
-    return 0;
-}
-
-
 
 int main(){
 
     int arr[] = { 64, 20, 1, 12, 5, 11, 94390 };
     int n = sizeof(arr) / sizeof(arr[0]);
     bubbleSort(arr, n, descending_compare, int_swap);
-    printf(" 1 Sorted array: \n");
+    printf("1 Sorted array: \n");
     for(int i = 0; i < n; i++)
     {
         printf("%d ", arr[i]);
