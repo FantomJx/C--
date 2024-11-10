@@ -55,11 +55,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-    "dynarr.h": "c",
-    "iterator": "c",
-    "typeinfo": "c"
-  },
-  "cmake.sourceDirectory": "/Users/mark/Documents/GitHub/C--/3zad"
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/mark/Documents/GitHub/C--/24.04",
-      "program": "/Users/mark/Documents/GitHub/C--/24.04/build/Debug/outDebug"
+      "cwd": "/Users/mark/Documents/GitHub/C--/14.10.24",
+      "program": "/Users/mark/Documents/GitHub/C--/14.10.24/build/Debug/outDebug"
     }
   ]
 }
